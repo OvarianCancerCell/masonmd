@@ -26,7 +26,7 @@ Z. Hu, C. Yau and A. Ahmed (2017) *A pan-cancer genome-wide analysis reveals tum
 In R or Rstudio, use the following codes to install the masonmd package directly from Github:
 ```{r install}
 install.packages(“devtools”)
-devtools::install_github("ZYBunnyHu/masonmd")
+devtools::install_github("zhiyhu/masonmd")
 ```
 
 ## 3 Examples
