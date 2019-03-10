@@ -1,4 +1,4 @@
-#masonmd: making sense of nonsense-mediated decay
+masonmd: making sense of nonsense-mediated decay
 ==============
 
 Zhiyuan Hu, Professor Ahmed Ashour Ahmed, Ovarian Cancer Cell Laboratory, Weatherall Institute of Molecular Medicine
